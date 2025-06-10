@@ -1,6 +1,7 @@
-# Surely You’re Joking, Mr. **Llama**
+# [Surely You’re Joking, Mr. **Llama**](https://en.wikipedia.org/wiki/Surely_You%27re_Joking,_Mr._Feynman!)
 
-*A multimodal physics‑textbook summarizer & experiment visualizer inspired by Richard Feynman’s legendary Caltech lectures.*
+*A multimodal physics‑textbook summarizer & experiment visualizer inspired by Richard Feynman’s legendary [Caltech lectures](https://www.feynmanlectures.caltech.edu/).*
+
 
 ---
 
