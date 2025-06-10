@@ -2,6 +2,8 @@
 
 *A multimodal physics‑textbook summarizer & experiment visualizer inspired by Richard Feynman’s legendary [Caltech lectures](https://www.feynmanlectures.caltech.edu/).*
 
+*“If you can’t explain something to a first‑year student, then you haven’t really understood.”* — Richard Feynman
+
 
 ---
 
@@ -168,5 +170,3 @@ If you use SYJML in academic work, please cite:
 ## License
 
 This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
-
-*“If you can’t explain something to a first‑year student, then you haven’t really understood.”* — Richard Feynman
