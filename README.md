@@ -1,6 +1,6 @@
-# LlamaCon Chat
+# Surely You're Joking Mr. Llama
 
-A web application for interacting with the Meta Llama API.
+A physics textbook summarization application inspired by the Feynman Lectures at Caltech.
 
 ## Prerequisites
 
