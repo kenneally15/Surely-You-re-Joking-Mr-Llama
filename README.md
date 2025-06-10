@@ -127,7 +127,7 @@ streamlit run syjml/app.py
 ## Configuration
 
 * \`\` controls chunk size, overlap, Gemini prompt templates, image specs, and safety settings.
-* **Environment variables** (`OPENAI_API_KEY`, `GEMINI_API_KEY`, etc.) manage credential storage.
+* **Environment variables** (`LLAMA_API_KEY`, `GEMINI_API_KEY`, etc.) manage credential storage.
 * **Adapters.** Replace Gemini with Stable Diffusion XL by pointing `vision_backend: "sdxl"`.
 
 ---
